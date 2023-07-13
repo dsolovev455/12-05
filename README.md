@@ -43,6 +43,17 @@ group by name
 
 Тот же результат можно получить выполнив запрос без этих операторов - distinct; over(partition by customer.customer_id, film.title), а также можно исключить из выборки таблицу film данные из неё не обрабатываются и увеличивают время обработки запроса.
 
+![alt text](https://github.com/dsolovev455/12-05/blob/main/img/1.png)
+
+![alt text](https://github.com/dsolovev455/12-05/blob/main/img/2.png)
+
+![alt text](https://github.com/dsolovev455/12-05/blob/main/img/3.png)
+
+![alt text](https://github.com/dsolovev455/12-05/blob/main/img/4.png)
+
+![alt text](https://github.com/dsolovev455/12-05/blob/main/img/5.png)
+
+![alt text](https://github.com/dsolovev455/12-05/blob/main/img/6.png)
 
 
 ## Дополнительные задания (со звёздочкой*)
